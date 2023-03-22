@@ -1,5 +1,6 @@
 ---
 title: Create Challenge
+date: March 22, 2023
 slug: create_challenge
 description: blurb describing my challenge to self
 ---
@@ -45,3 +46,5 @@ To be considered <b>completed</b>, a project must be:
 - canvas widget site
 - article/reflection
 - sudoku
+- tone.js
+- hexagon music
